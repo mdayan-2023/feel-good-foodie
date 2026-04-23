@@ -1,10 +1,9 @@
 /* ===========================
-   FEEL GOOD FOODIE — APP.JS
+   FEEL GOOD FOODIE v2 — APP.JS
    =========================== */
 
 const API_BASE = 'https://feel-good-foodie.onrender.com/api';
 
-// Mood sub-labels for the cards
 const MOOD_SUBLABELS = {
   happy:    'Celebrate & enjoy',
   sad:      'Comfort & warmth',
@@ -14,21 +13,17 @@ const MOOD_SUBLABELS = {
   tired:    'Rest & revive',
 };
 
-// ─── Init ────────────────────────────────────────────────────────────────────
 document.addEventListener('DOMContentLoaded', () => {
   loadMoods();
   document.getElementById('backBtn').addEventListener('click', showMoodPicker);
 });
 
-// ─── Load Moods from API ──────────────────────────────────────────────────────
 async function loadMoods() {
   try {
     const res = await fetch(`${API_BASE}/moods`);
     const data = await res.json();
     renderMoodGrid(data.moods);
   } catch (err) {
-    console.error('Could not load moods:', err);
-    // Fallback: render static moods if API is unavailable
     renderFallbackMoods();
   }
 }
@@ -62,46 +57,44 @@ function renderFallbackMoods() {
   renderMoodGrid(fallback);
 }
 
-// ─── Get Recommendations ──────────────────────────────────────────────────────
 async function getRecommendations(moodId, moodColor) {
   showLoading(true);
-
   try {
     const res = await fetch(`${API_BASE}/recommend`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ mood: moodId }),
     });
-
     if (!res.ok) throw new Error('API error');
-
     const data = await res.json();
     showResults(data, moodColor);
   } catch (err) {
-    console.error('Recommendation error:', err);
-    showToast('⚠️ Could not connect to server. Check that Flask is running on port 5000.');
+    showToast('⚠️ Could not connect to server. Check that Flask is running.');
   } finally {
     showLoading(false);
   }
 }
 
-// ─── Show Results ─────────────────────────────────────────────────────────────
+function renderStars(score) {
+  let stars = '';
+  for (let i = 1; i <= 5; i++) {
+    stars += `<span class="star ${i <= score ? 'filled' : ''}">★</span>`;
+  }
+  return stars;
+}
+
 function showResults(data, color) {
-  // Hide mood section
   document.getElementById('mood-picker').classList.add('hidden');
   document.getElementById('hero').classList.add('hidden');
-
-  // Update CSS mood color variable
   document.documentElement.style.setProperty('--mood-color', color);
 
-  // Populate header
   document.getElementById('moodBadge').textContent = data.emoji;
   document.getElementById('resultsTitle').textContent = `Perfect picks for your ${data.mood} mood`;
   document.getElementById('resultsTagline').textContent = data.tagline;
 
-  // Build food cards
   const grid = document.getElementById('cardsGrid');
   grid.innerHTML = '';
+
   data.recommendations.forEach(food => {
     const card = document.createElement('div');
     card.className = 'food-card';
@@ -109,14 +102,34 @@ function showResults(data, color) {
       <div class="food-card-hero">${food.emoji}</div>
       <div class="food-card-body">
         <div class="food-card-name">${food.name}</div>
+        <div class="food-stars">${renderStars(food.mood_score)}</div>
         <div class="food-card-desc">${food.description}</div>
+
         <div class="food-tags">
           ${food.tags.map(t => `<span class="food-tag">${t}</span>`).join('')}
         </div>
+
         <div class="food-meta">
           <div class="meta-item"><span>🔥</span><span>${food.calories} cal</span></div>
           <div class="meta-item"><span>⏱️</span><span>${food.prep_time}</span></div>
+          <div class="meta-item"><span>👨‍🍳</span><span>${food.difficulty}</span></div>
+          <div class="meta-item"><span>🕐</span><span>${food.best_time}</span></div>
         </div>
+
+        <div class="info-section benefits">
+          <div class="info-title">💪 Benefits</div>
+          <ul class="info-list">
+            ${food.benefits.map(b => `<li>${b}</li>`).join('')}
+          </ul>
+        </div>
+
+        <div class="info-section avoid">
+          <div class="info-title">⚠️ Avoid if</div>
+          <ul class="info-list avoid-list">
+            ${food.avoid_if.map(a => `<li>${a}</li>`).join('')}
+          </ul>
+        </div>
+
         <button class="try-btn" onclick="handleTry('${food.name}')">
           I'll try this! 🍴
         </button>
@@ -125,13 +138,11 @@ function showResults(data, color) {
     grid.appendChild(card);
   });
 
-  // Show results section
   const section = document.getElementById('resultsSection');
   section.classList.remove('hidden');
   section.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
-// ─── Back to Mood Picker ──────────────────────────────────────────────────────
 function showMoodPicker() {
   document.getElementById('resultsSection').classList.add('hidden');
   document.getElementById('mood-picker').classList.remove('hidden');
@@ -139,23 +150,19 @@ function showMoodPicker() {
   document.getElementById('mood-picker').scrollIntoView({ behavior: 'smooth' });
 }
 
-// ─── Try Button Handler ───────────────────────────────────────────────────────
 function handleTry(foodName) {
   showToast(`🍴 Great choice! Enjoy your ${foodName}!`);
 }
 
-// ─── Loading Overlay ──────────────────────────────────────────────────────────
 function showLoading(visible) {
   document.getElementById('loadingOverlay').classList.toggle('hidden', !visible);
 }
 
-// ─── Toast Notification ───────────────────────────────────────────────────────
 let toastTimer;
 function showToast(msg) {
   const toast = document.getElementById('toast');
   toast.textContent = msg;
   toast.classList.remove('hidden');
-  // Trigger show
   requestAnimationFrame(() => toast.classList.add('show'));
   clearTimeout(toastTimer);
   toastTimer = setTimeout(() => {
