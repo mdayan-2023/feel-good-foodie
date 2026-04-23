@@ -2,7 +2,7 @@
    FEEL GOOD FOODIE — APP.JS
    =========================== */
 
-const API_BASE = 'http://localhost:5000/api';
+const API_BASE = 'https://feel-good-foodie.onrender.com/api';
 
 // Mood sub-labels for the cards
 const MOOD_SUBLABELS = {
