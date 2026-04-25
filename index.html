@@ -11,7 +11,6 @@
 </head>
 <body>
 
-  <!-- Ambient background blobs -->
   <div class="bg-blob blob-1"></div>
   <div class="bg-blob blob-2"></div>
   <div class="bg-blob blob-3"></div>
@@ -25,13 +24,16 @@
     <div class="nav-tagline">Eat with your heart</div>
   </nav>
 
-  <!-- HERO SECTION -->
+  <!-- HERO -->
   <section class="hero" id="hero">
     <div class="hero-content">
       <p class="hero-kicker">Your mood. Your meal. Your moment.</p>
-      <h1 class="hero-title">What are you <br /><em>feeling</em> today?</h1>
+      <h1 class="hero-title" id="timeGreeting">What are you <em>feeling</em> today?</h1>
       <p class="hero-sub">Tell us your vibe and we'll find the perfect food to match your soul right now.</p>
-      <a href="#mood-picker" class="cta-btn">Pick your mood →</a>
+      <div class="hero-btns">
+        <a href="#mood-picker" class="cta-btn">Pick your mood →</a>
+        <button class="surprise-btn" onclick="surpriseMe()">🎲 Surprise Me!</button>
+      </div>
     </div>
     <div class="hero-visual">
       <div class="food-orbit">
@@ -52,12 +54,10 @@
       <h2>Choose your mood</h2>
       <p>Be honest — there's a perfect dish for every feeling.</p>
     </div>
-    <div class="mood-grid" id="moodGrid">
-      <!-- Populated via JS -->
-    </div>
+    <div class="mood-grid" id="moodGrid"></div>
   </section>
 
-  <!-- RESULTS SECTION -->
+  <!-- RESULTS -->
   <section class="results-section hidden" id="resultsSection">
     <div class="results-header">
       <button class="back-btn" id="backBtn">← Back to Moods</button>
@@ -65,12 +65,34 @@
       <h2 id="resultsTitle">Perfect picks for you</h2>
       <p id="resultsTagline"></p>
     </div>
-    <div class="cards-grid" id="cardsGrid">
-      <!-- Populated via JS -->
+
+    <!-- SEARCH + FILTERS -->
+    <div class="controls-bar">
+      <div class="search-wrap">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="searchInput" placeholder="Search dishes, ingredients..." />
+      </div>
+      <div class="filters">
+        <div class="filter-group">
+          <span class="filter-label">Type:</span>
+          <button class="filter-btn active" data-type="all" onclick="setFilter('type','all',this)">All</button>
+          <button class="filter-btn" data-type="veg" onclick="setFilter('type','veg',this)">🟢 Veg</button>
+          <button class="filter-btn" data-type="nonveg" onclick="setFilter('type','nonveg',this)">🔴 Non-veg</button>
+        </div>
+        <div class="filter-group">
+          <span class="filter-label">Diet:</span>
+          <button class="filter-btn active" data-diet="all" onclick="setFilter('diet','all',this)">All</button>
+          <button class="filter-btn" data-diet="vegan" onclick="setFilter('diet','vegan',this)">🌱 Vegan</button>
+          <button class="filter-btn" data-diet="high protein" onclick="setFilter('diet','high protein',this)">💪 High Protein</button>
+          <button class="filter-btn" data-diet="low carb" onclick="setFilter('diet','low carb',this)">🥗 Low Carb</button>
+        </div>
+      </div>
     </div>
+
+    <div class="cards-grid" id="cardsGrid"></div>
   </section>
 
-  <!-- LOADING OVERLAY -->
+  <!-- LOADING -->
   <div class="loading-overlay hidden" id="loadingOverlay">
     <div class="loader">
       <span>🍳</span>
@@ -81,7 +103,6 @@
   <!-- TOAST -->
   <div class="toast hidden" id="toast"></div>
 
-  <!-- FOOTER -->
   <footer class="footer">
     <p>Made with ❤️ & good taste · <em>Feel Good Foodie</em></p>
   </footer>
