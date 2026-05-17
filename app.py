@@ -18,7 +18,7 @@ MOOD_FOODS = {
           "Sweet",
           "Creamy"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -54,7 +54,7 @@ MOOD_FOODS = {
           "Tangy",
           "Fun"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -90,7 +90,7 @@ MOOD_FOODS = {
           "Spicy",
           "Festive"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -126,7 +126,7 @@ MOOD_FOODS = {
           "Sweet",
           "Soft"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 350,
         "prep_time": "30 mins",
@@ -160,7 +160,7 @@ MOOD_FOODS = {
           "Spicy",
           "Street Food"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -196,7 +196,7 @@ MOOD_FOODS = {
           "Crispy",
           "Spicy"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -232,7 +232,7 @@ MOOD_FOODS = {
           "Sweet",
           "Crispy"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 280,
         "prep_time": "20 mins",
@@ -266,7 +266,7 @@ MOOD_FOODS = {
           "Tangy",
           "Crunchy"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -302,7 +302,7 @@ MOOD_FOODS = {
           "Crispy",
           "Chatpata"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -338,7 +338,7 @@ MOOD_FOODS = {
           "Sweet",
           "Creamy"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 200,
         "prep_time": "5 mins",
@@ -372,7 +372,7 @@ MOOD_FOODS = {
           "Chatpata",
           "Crunchy"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -408,7 +408,7 @@ MOOD_FOODS = {
           "Hearty",
           "Comfort"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -445,7 +445,7 @@ MOOD_FOODS = {
           "Warm",
           "Spiced"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 80,
         "prep_time": "5 mins",
@@ -479,7 +479,7 @@ MOOD_FOODS = {
           "Spicy",
           "Grilled"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein",
           "Low Carb"
@@ -516,7 +516,7 @@ MOOD_FOODS = {
           "Tangy",
           "Cool"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -552,7 +552,7 @@ MOOD_FOODS = {
           "Light",
           "Quick"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -587,7 +587,7 @@ MOOD_FOODS = {
           "Spicy",
           "Rich"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -623,7 +623,7 @@ MOOD_FOODS = {
           "Healthy",
           "Chatpata"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -660,7 +660,7 @@ MOOD_FOODS = {
           "Sweet",
           "Cooling"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -696,7 +696,7 @@ MOOD_FOODS = {
           "Crispy",
           "Spicy"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -732,7 +732,7 @@ MOOD_FOODS = {
           "Crispy",
           "South Indian"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -774,7 +774,7 @@ MOOD_FOODS = {
           "Warm",
           "Comfort"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -809,7 +809,7 @@ MOOD_FOODS = {
           "Homely",
           "Comforting"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -845,7 +845,7 @@ MOOD_FOODS = {
           "Crispy",
           "Homestyle"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 420,
         "prep_time": "30 mins",
@@ -879,7 +879,7 @@ MOOD_FOODS = {
           "Sweet",
           "Warm"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 380,
         "prep_time": "15 mins",
@@ -913,7 +913,7 @@ MOOD_FOODS = {
           "Quick",
           "Nostalgic"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 320,
         "prep_time": "5 mins",
@@ -947,7 +947,7 @@ MOOD_FOODS = {
           "Sweet",
           "Warm"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 320,
         "prep_time": "45 mins",
@@ -981,7 +981,7 @@ MOOD_FOODS = {
           "Tangy",
           "Warm"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -1017,7 +1017,7 @@ MOOD_FOODS = {
           "Soft",
           "Warm"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -1053,7 +1053,7 @@ MOOD_FOODS = {
           "Warm",
           "Light"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -1089,7 +1089,7 @@ MOOD_FOODS = {
           "Buttery",
           "Filling"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -1125,7 +1125,7 @@ MOOD_FOODS = {
           "Sweet",
           "Creamy"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 320,
         "prep_time": "40 mins",
@@ -1159,7 +1159,7 @@ MOOD_FOODS = {
           "Warm",
           "Soothing"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Low Carb"
         ],
@@ -1195,7 +1195,7 @@ MOOD_FOODS = {
           "Light",
           "Comfort"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -1230,7 +1230,7 @@ MOOD_FOODS = {
           "Simple",
           "Homestyle"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -1265,7 +1265,7 @@ MOOD_FOODS = {
           "Warm",
           "Comforting"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -1301,7 +1301,7 @@ MOOD_FOODS = {
           "Cooling",
           "Calming"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -1336,7 +1336,7 @@ MOOD_FOODS = {
           "Protein-rich",
           "Quick"
         ],
-        "is_veg": false,
+        "is_veg": False,
         "diet_type": [
           "High Protein",
           "Low Carb"
@@ -1373,7 +1373,7 @@ MOOD_FOODS = {
           "Healthy",
           "Crispy"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein",
           "Vegan"
@@ -1409,7 +1409,7 @@ MOOD_FOODS = {
           "Iron-rich",
           "Smooth"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Low Carb"
         ],
@@ -1445,7 +1445,7 @@ MOOD_FOODS = {
           "Sunday Special",
           "Classic"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -1482,7 +1482,7 @@ MOOD_FOODS = {
           "Light",
           "South Indian"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -1524,7 +1524,7 @@ MOOD_FOODS = {
           "Healing",
           "Warm"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -1560,7 +1560,7 @@ MOOD_FOODS = {
           "Calming",
           "Herbal"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -1597,7 +1597,7 @@ MOOD_FOODS = {
           "Light",
           "Calming"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -1632,7 +1632,7 @@ MOOD_FOODS = {
           "Sweet",
           "Rich"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 200,
         "prep_time": "20 mins",
@@ -1666,7 +1666,7 @@ MOOD_FOODS = {
           "Quick",
           "Grounding"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -1703,7 +1703,7 @@ MOOD_FOODS = {
           "Herbal",
           "Healing"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -1740,7 +1740,7 @@ MOOD_FOODS = {
           "Healthy",
           "Calming"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -1775,7 +1775,7 @@ MOOD_FOODS = {
           "Natural",
           "Stress-busting"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -1812,7 +1812,7 @@ MOOD_FOODS = {
           "Cooling",
           "Calming"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -1847,7 +1847,7 @@ MOOD_FOODS = {
           "Light",
           "Crunchy"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -1883,7 +1883,7 @@ MOOD_FOODS = {
           "Adaptogen",
           "Traditional"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 180,
         "prep_time": "5 mins",
@@ -1918,7 +1918,7 @@ MOOD_FOODS = {
           "Protein-rich",
           "Iron-rich"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein",
           "Low Carb"
@@ -1955,7 +1955,7 @@ MOOD_FOODS = {
           "Hydrating",
           "Cooling"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -1992,7 +1992,7 @@ MOOD_FOODS = {
           "Cooling",
           "Protein-rich"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -2028,7 +2028,7 @@ MOOD_FOODS = {
           "Wholesome",
           "Grounding"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -2063,7 +2063,7 @@ MOOD_FOODS = {
           "Healthy",
           "Light"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -2100,7 +2100,7 @@ MOOD_FOODS = {
           "Cooling",
           "Calming"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein",
           "Low Carb"
@@ -2136,7 +2136,7 @@ MOOD_FOODS = {
           "Herbal",
           "Fresh"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -2173,7 +2173,7 @@ MOOD_FOODS = {
           "Natural",
           "Sweet"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -2209,7 +2209,7 @@ MOOD_FOODS = {
           "Cooling",
           "Probiotic"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein",
           "Low Carb"
@@ -2245,7 +2245,7 @@ MOOD_FOODS = {
           "Omega-3",
           "Calming"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -2288,7 +2288,7 @@ MOOD_FOODS = {
           "Protein",
           "Power"
         ],
-        "is_veg": false,
+        "is_veg": False,
         "diet_type": [
           "High Protein",
           "Low Carb"
@@ -2325,7 +2325,7 @@ MOOD_FOODS = {
           "High Protein",
           "Power"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -2362,7 +2362,7 @@ MOOD_FOODS = {
           "High Protein",
           "Grilled"
         ],
-        "is_veg": false,
+        "is_veg": False,
         "diet_type": [
           "High Protein",
           "Low Carb"
@@ -2399,7 +2399,7 @@ MOOD_FOODS = {
           "High Protein",
           "Power"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -2436,7 +2436,7 @@ MOOD_FOODS = {
           "Sweet",
           "Energy"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -2472,7 +2472,7 @@ MOOD_FOODS = {
           "Light",
           "Iron-rich"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -2507,7 +2507,7 @@ MOOD_FOODS = {
           "Raw",
           "Protein-rich"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -2543,7 +2543,7 @@ MOOD_FOODS = {
           "Filling",
           "Slow Energy"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -2578,7 +2578,7 @@ MOOD_FOODS = {
           "Complete Protein",
           "Filling"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -2615,7 +2615,7 @@ MOOD_FOODS = {
           "Natural Energy",
           "No Sugar"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -2652,7 +2652,7 @@ MOOD_FOODS = {
           "High Protein",
           "Quick"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein",
           "Low Carb"
@@ -2688,7 +2688,7 @@ MOOD_FOODS = {
           "Superfood",
           "Filling"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -2723,7 +2723,7 @@ MOOD_FOODS = {
           "Natural Energy",
           "Crunchy"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -2760,7 +2760,7 @@ MOOD_FOODS = {
           "Light",
           "Protein-rich"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -2796,7 +2796,7 @@ MOOD_FOODS = {
           "High Protein",
           "Iron-rich"
         ],
-        "is_veg": false,
+        "is_veg": False,
         "diet_type": [
           "High Protein",
           "Low Carb"
@@ -2833,7 +2833,7 @@ MOOD_FOODS = {
           "Complete Protein",
           "Modern"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -2869,7 +2869,7 @@ MOOD_FOODS = {
           "Electrolytes",
           "Cooling"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -2904,7 +2904,7 @@ MOOD_FOODS = {
           "High Protein",
           "Power"
         ],
-        "is_veg": false,
+        "is_veg": False,
         "diet_type": [
           "High Protein"
         ],
@@ -2940,7 +2940,7 @@ MOOD_FOODS = {
           "Plant Protein",
           "Power"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -2977,7 +2977,7 @@ MOOD_FOODS = {
           "Wholesome",
           "Sustained Energy"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 320,
         "prep_time": "20 mins",
@@ -3011,7 +3011,7 @@ MOOD_FOODS = {
           "Protein",
           "Iron-rich"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -3053,7 +3053,7 @@ MOOD_FOODS = {
           "Quick",
           "Natural Energy"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -3089,7 +3089,7 @@ MOOD_FOODS = {
           "Healing",
           "Warm"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 160,
         "prep_time": "5 mins",
@@ -3123,7 +3123,7 @@ MOOD_FOODS = {
           "Instant Energy",
           "Iron-rich"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -3160,7 +3160,7 @@ MOOD_FOODS = {
           "Protein-rich",
           "Iron-rich"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -3197,7 +3197,7 @@ MOOD_FOODS = {
           "Light",
           "Restorative"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -3233,7 +3233,7 @@ MOOD_FOODS = {
           "Hydrating",
           "Electrolytes"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -3270,7 +3270,7 @@ MOOD_FOODS = {
           "Quick Energy",
           "Gluten-free"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -3305,7 +3305,7 @@ MOOD_FOODS = {
           "Vitamin C",
           "Energizing"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -3342,7 +3342,7 @@ MOOD_FOODS = {
           "Probiotic",
           "Natural Sweet"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -3378,7 +3378,7 @@ MOOD_FOODS = {
           "Protein",
           "Quick"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -3415,7 +3415,7 @@ MOOD_FOODS = {
           "Iron-rich",
           "Restorative"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -3452,7 +3452,7 @@ MOOD_FOODS = {
           "Superfood",
           "Iron-rich"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -3487,7 +3487,7 @@ MOOD_FOODS = {
           "Iron-rich",
           "Calcium-rich"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -3522,7 +3522,7 @@ MOOD_FOODS = {
           "Sweet",
           "Natural Energy"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -3558,7 +3558,7 @@ MOOD_FOODS = {
           "Traditional",
           "Energy"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -3594,7 +3594,7 @@ MOOD_FOODS = {
           "Light",
           "Nutritious"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 240,
         "prep_time": "20 mins",
@@ -3628,7 +3628,7 @@ MOOD_FOODS = {
           "Healing",
           "Protein-rich"
         ],
-        "is_veg": false,
+        "is_veg": False,
         "diet_type": [
           "High Protein",
           "Low Carb"
@@ -3665,7 +3665,7 @@ MOOD_FOODS = {
           "Quick",
           "Sweet"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 320,
         "prep_time": "10 mins",
@@ -3699,7 +3699,7 @@ MOOD_FOODS = {
           "Superfood",
           "Natural Energy"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -3734,7 +3734,7 @@ MOOD_FOODS = {
           "Natural Energy",
           "Crunchy"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -3771,7 +3771,7 @@ MOOD_FOODS = {
           "Ultra-gentle",
           "Traditional"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -3814,7 +3814,7 @@ MOOD_FOODS = {
           "Royal",
           "Romantic"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -3851,7 +3851,7 @@ MOOD_FOODS = {
           "Aromatic",
           "Special"
         ],
-        "is_veg": false,
+        "is_veg": False,
         "diet_type": [
           "High Protein"
         ],
@@ -3888,7 +3888,7 @@ MOOD_FOODS = {
           "Sweet",
           "Special"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 480,
         "prep_time": "40 mins",
@@ -3923,7 +3923,7 @@ MOOD_FOODS = {
           "Coastal",
           "Special"
         ],
-        "is_veg": false,
+        "is_veg": False,
         "diet_type": [
           "High Protein",
           "Low Carb"
@@ -3960,7 +3960,7 @@ MOOD_FOODS = {
           "Romantic",
           "Fragrant"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 300,
         "prep_time": "30 mins",
@@ -3995,7 +3995,7 @@ MOOD_FOODS = {
           "Creamy",
           "Romantic"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -4032,7 +4032,7 @@ MOOD_FOODS = {
           "Special",
           "High Protein"
         ],
-        "is_veg": false,
+        "is_veg": False,
         "diet_type": [
           "High Protein",
           "Low Carb"
@@ -4070,7 +4070,7 @@ MOOD_FOODS = {
           "Sweet",
           "Gift"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 200,
         "prep_time": "30 mins",
@@ -4105,7 +4105,7 @@ MOOD_FOODS = {
           "Romantic",
           "Aromatic"
         ],
-        "is_veg": false,
+        "is_veg": False,
         "diet_type": [
           "High Protein",
           "Low Carb"
@@ -4143,7 +4143,7 @@ MOOD_FOODS = {
           "Sweet",
           "Romantic"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 280,
         "prep_time": "45 mins",
@@ -4178,7 +4178,7 @@ MOOD_FOODS = {
           "Creamy",
           "Elegant"
         ],
-        "is_veg": false,
+        "is_veg": False,
         "diet_type": [
           "High Protein",
           "Low Carb"
@@ -4216,7 +4216,7 @@ MOOD_FOODS = {
           "Fragrant",
           "Romantic"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -4253,7 +4253,7 @@ MOOD_FOODS = {
           "Aromatic",
           "High Protein"
         ],
-        "is_veg": false,
+        "is_veg": False,
         "diet_type": [
           "High Protein",
           "Low Carb"
@@ -4291,7 +4291,7 @@ MOOD_FOODS = {
           "Creamy",
           "Seasonal"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -4328,7 +4328,7 @@ MOOD_FOODS = {
           "Rich",
           "Special"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -4364,7 +4364,7 @@ MOOD_FOODS = {
           "Unique",
           "Special Drink"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 380,
         "prep_time": "15 mins",
@@ -4399,7 +4399,7 @@ MOOD_FOODS = {
           "Romantic",
           "Rich"
         ],
-        "is_veg": false,
+        "is_veg": False,
         "diet_type": [
           "High Protein",
           "Low Carb"
@@ -4437,7 +4437,7 @@ MOOD_FOODS = {
           "Sweet",
           "Healthy Dessert"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 280,
         "prep_time": "40 mins",
@@ -4472,7 +4472,7 @@ MOOD_FOODS = {
           "Delicate",
           "Traditional"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 250,
         "prep_time": "20 mins",
@@ -4507,7 +4507,7 @@ MOOD_FOODS = {
           "Sweet",
           "Gift"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 200,
         "prep_time": "20 mins",
@@ -4542,7 +4542,7 @@ MOOD_FOODS = {
           "Special",
           "Traditional"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -4586,7 +4586,7 @@ MOOD_FOODS = {
           "Traditional",
           "Warm"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 140,
         "prep_time": "5 mins",
@@ -4621,7 +4621,7 @@ MOOD_FOODS = {
           "Easy Digest",
           "Calming"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -4657,7 +4657,7 @@ MOOD_FOODS = {
           "Sacred",
           "Calming"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -4694,7 +4694,7 @@ MOOD_FOODS = {
           "Adaptogen",
           "Anxiety-reducing"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 180,
         "prep_time": "5 mins",
@@ -4730,7 +4730,7 @@ MOOD_FOODS = {
           "Probiotic",
           "Gentle"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -4766,7 +4766,7 @@ MOOD_FOODS = {
           "Omega-3",
           "Filling"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -4803,7 +4803,7 @@ MOOD_FOODS = {
           "Crunchy",
           "Calming"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -4840,7 +4840,7 @@ MOOD_FOODS = {
           "Warm",
           "Steady Energy"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -4876,7 +4876,7 @@ MOOD_FOODS = {
           "Grounding",
           "Gentle"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -4913,7 +4913,7 @@ MOOD_FOODS = {
           "Fresh",
           "Calming"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -4951,7 +4951,7 @@ MOOD_FOODS = {
           "Calming",
           "Grounding"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 260,
         "prep_time": "15 mins",
@@ -4985,7 +4985,7 @@ MOOD_FOODS = {
           "Simple",
           "Comforting"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 180,
         "prep_time": "15 mins",
@@ -5020,7 +5020,7 @@ MOOD_FOODS = {
           "Simple",
           "Calming"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein",
           "Low Carb"
@@ -5057,7 +5057,7 @@ MOOD_FOODS = {
           "Sattvic",
           "Calming"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -5094,7 +5094,7 @@ MOOD_FOODS = {
           "Fragrant",
           "Gentle"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 240,
         "prep_time": "30 mins",
@@ -5129,7 +5129,7 @@ MOOD_FOODS = {
           "Calming",
           "Herbal"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -5167,7 +5167,7 @@ MOOD_FOODS = {
           "Herbal",
           "Calming"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -5206,7 +5206,7 @@ MOOD_FOODS = {
           "Traditional",
           "Calming"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -5243,7 +5243,7 @@ MOOD_FOODS = {
           "Probiotic",
           "Digestive"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein",
           "Low Carb"
@@ -5280,7 +5280,7 @@ MOOD_FOODS = {
           "Gentle",
           "Nourishing"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -5317,7 +5317,7 @@ MOOD_FOODS = {
           "Light",
           "Nutritious"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -5362,7 +5362,7 @@ MOOD_FOODS = {
           "Immunity",
           "Soothing"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -5400,7 +5400,7 @@ MOOD_FOODS = {
           "Easy Digest",
           "Traditional"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -5436,7 +5436,7 @@ MOOD_FOODS = {
           "Warm",
           "Protein-rich"
         ],
-        "is_veg": false,
+        "is_veg": False,
         "diet_type": [
           "High Protein",
           "Low Carb"
@@ -5474,7 +5474,7 @@ MOOD_FOODS = {
           "Traditional",
           "Healing"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -5511,7 +5511,7 @@ MOOD_FOODS = {
           "Anti-inflammatory",
           "Healing"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 150,
         "prep_time": "5 mins",
@@ -5546,7 +5546,7 @@ MOOD_FOODS = {
           "Electrolytes",
           "Natural ORS"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -5584,7 +5584,7 @@ MOOD_FOODS = {
           "Gentle",
           "Probiotic"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -5620,7 +5620,7 @@ MOOD_FOODS = {
           "Vitamin C",
           "Immunity"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -5658,7 +5658,7 @@ MOOD_FOODS = {
           "Traditional",
           "Healing"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -5694,7 +5694,7 @@ MOOD_FOODS = {
           "Gluten-free",
           "Easy"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -5730,7 +5730,7 @@ MOOD_FOODS = {
           "Vitamin C",
           "Alkalizing"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -5767,7 +5767,7 @@ MOOD_FOODS = {
           "Warming",
           "Anti-nausea"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 60,
         "prep_time": "5 mins",
@@ -5802,7 +5802,7 @@ MOOD_FOODS = {
           "Bland",
           "Gentle"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -5838,7 +5838,7 @@ MOOD_FOODS = {
           "Herbal",
           "Traditional"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -5877,7 +5877,7 @@ MOOD_FOODS = {
           "Easy Digest",
           "Protein-rich"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -5914,7 +5914,7 @@ MOOD_FOODS = {
           "Traditional",
           "Healing"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -5951,7 +5951,7 @@ MOOD_FOODS = {
           "Protein",
           "Healing"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -5988,7 +5988,7 @@ MOOD_FOODS = {
           "Sweet",
           "Easy"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 240,
         "prep_time": "15 mins",
@@ -6023,7 +6023,7 @@ MOOD_FOODS = {
           "Protein",
           "Rehydrating"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -6060,7 +6060,7 @@ MOOD_FOODS = {
           "Wholesome",
           "Recovery"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -6095,7 +6095,7 @@ MOOD_FOODS = {
           "Simplest Sick Food",
           "Easy Digest"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -6138,7 +6138,7 @@ MOOD_FOODS = {
           "Low Fat",
           "Power"
         ],
-        "is_veg": false,
+        "is_veg": False,
         "diet_type": [
           "High Protein",
           "Low Carb"
@@ -6176,7 +6176,7 @@ MOOD_FOODS = {
           "Filling",
           "Power"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -6214,7 +6214,7 @@ MOOD_FOODS = {
           "Lean",
           "Power"
         ],
-        "is_veg": false,
+        "is_veg": False,
         "diet_type": [
           "High Protein",
           "Low Carb"
@@ -6251,7 +6251,7 @@ MOOD_FOODS = {
           "Traditional",
           "Power"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -6289,7 +6289,7 @@ MOOD_FOODS = {
           "Protein",
           "Energy"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -6326,7 +6326,7 @@ MOOD_FOODS = {
           "Modern",
           "Power"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -6363,7 +6363,7 @@ MOOD_FOODS = {
           "Calcium",
           "Power"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -6399,7 +6399,7 @@ MOOD_FOODS = {
           "Lean Protein",
           "Power"
         ],
-        "is_veg": false,
+        "is_veg": False,
         "diet_type": [
           "High Protein",
           "Low Carb"
@@ -6437,7 +6437,7 @@ MOOD_FOODS = {
           "Omega-3",
           "Natural Energy"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -6475,7 +6475,7 @@ MOOD_FOODS = {
           "Protein",
           "Power"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein",
           "Low Carb"
@@ -6513,7 +6513,7 @@ MOOD_FOODS = {
           "Vitamin C",
           "Power"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -6551,7 +6551,7 @@ MOOD_FOODS = {
           "Energy",
           "Pre-workout"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -6590,7 +6590,7 @@ MOOD_FOODS = {
           "Iron",
           "Filling"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -6627,7 +6627,7 @@ MOOD_FOODS = {
           "Plant Protein",
           "Power"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -6665,7 +6665,7 @@ MOOD_FOODS = {
           "Rich",
           "Power"
         ],
-        "is_veg": false,
+        "is_veg": False,
         "diet_type": [
           "High Protein",
           "Low Carb"
@@ -6704,7 +6704,7 @@ MOOD_FOODS = {
           "Magnesium",
           "Power Snack"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -6741,7 +6741,7 @@ MOOD_FOODS = {
           "Probiotic",
           "Filling"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -6778,7 +6778,7 @@ MOOD_FOODS = {
           "Iron",
           "Simple"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -6816,7 +6816,7 @@ MOOD_FOODS = {
           "Filling",
           "Power"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -6852,7 +6852,7 @@ MOOD_FOODS = {
           "Superfood",
           "Natural Energy"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -6888,7 +6888,7 @@ MOOD_FOODS = {
           "Energizing",
           "South Indian"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -6931,7 +6931,7 @@ MOOD_FOODS = {
           "Homestyle",
           "Punjabi"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 480,
         "prep_time": "30 mins",
@@ -6966,7 +6966,7 @@ MOOD_FOODS = {
           "Nostalgic",
           "2-Minute"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 320,
         "prep_time": "5 mins",
@@ -7001,7 +7001,7 @@ MOOD_FOODS = {
           "Classic",
           "Sweet"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 350,
         "prep_time": "30 mins",
@@ -7036,7 +7036,7 @@ MOOD_FOODS = {
           "Daily Ritual",
           "Comforting"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 160,
         "prep_time": "5 mins",
@@ -7071,7 +7071,7 @@ MOOD_FOODS = {
           "Comfort",
           "Punjabi Classic"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -7109,7 +7109,7 @@ MOOD_FOODS = {
           "Traditional",
           "Special"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 580,
         "prep_time": "60 mins",
@@ -7144,7 +7144,7 @@ MOOD_FOODS = {
           "Hot",
           "Festival Sweet"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 320,
         "prep_time": "20 mins",
@@ -7179,7 +7179,7 @@ MOOD_FOODS = {
           "Maharashtra",
           "Fasting Food"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -7216,7 +7216,7 @@ MOOD_FOODS = {
           "Homestyle",
           "Weekly Meal"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -7253,7 +7253,7 @@ MOOD_FOODS = {
           "Sweet",
           "Homemade"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 340,
         "prep_time": "45 mins",
@@ -7288,7 +7288,7 @@ MOOD_FOODS = {
           "Quick",
           "Western India"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -7324,7 +7324,7 @@ MOOD_FOODS = {
           "Wholesome",
           "Morning Comfort"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -7361,7 +7361,7 @@ MOOD_FOODS = {
           "Street Food",
           "Iconic"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -7398,7 +7398,7 @@ MOOD_FOODS = {
           "Sweet",
           "Temple Food"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 350,
         "prep_time": "15 mins",
@@ -7433,7 +7433,7 @@ MOOD_FOODS = {
           "Festive",
           "Indulgent"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -7470,7 +7470,7 @@ MOOD_FOODS = {
           "Crunchy",
           "Jar Snack"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -7507,7 +7507,7 @@ MOOD_FOODS = {
           "Digestive",
           "Traditional"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -7545,7 +7545,7 @@ MOOD_FOODS = {
           "Spicy",
           "Classic"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -7582,7 +7582,7 @@ MOOD_FOODS = {
           "Classic",
           "Sweet"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 320,
         "prep_time": "40 mins",
@@ -7617,7 +7617,7 @@ MOOD_FOODS = {
           "Prasad",
           "Warmth"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 380,
         "prep_time": "15 mins",
@@ -7652,7 +7652,7 @@ MOOD_FOODS = {
           "Home Sweet",
           "Traditional"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 260,
         "prep_time": "25 mins",
@@ -7694,7 +7694,7 @@ MOOD_FOODS = {
           "Comforting",
           "Warm"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -7731,7 +7731,7 @@ MOOD_FOODS = {
           "Comfort",
           "Quick"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 320,
         "prep_time": "5 mins",
@@ -7766,7 +7766,7 @@ MOOD_FOODS = {
           "Comfort",
           "Daily Ritual"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 180,
         "prep_time": "5 mins",
@@ -7801,7 +7801,7 @@ MOOD_FOODS = {
           "Comforting",
           "Healing"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 160,
         "prep_time": "5 mins",
@@ -7836,7 +7836,7 @@ MOOD_FOODS = {
           "Home",
           "Simple"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -7872,7 +7872,7 @@ MOOD_FOODS = {
           "Sweet",
           "Childhood"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 260,
         "prep_time": "10 mins",
@@ -7907,7 +7907,7 @@ MOOD_FOODS = {
           "Comfort",
           "Warm"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -7944,7 +7944,7 @@ MOOD_FOODS = {
           "Warm",
           "Filling"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -7981,7 +7981,7 @@ MOOD_FOODS = {
           "Homestyle",
           "Warm"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -8018,7 +8018,7 @@ MOOD_FOODS = {
           "Warm",
           "Festival Feeling"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 320,
         "prep_time": "40 mins",
@@ -8053,7 +8053,7 @@ MOOD_FOODS = {
           "Rich",
           "Comforting"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -8090,7 +8090,7 @@ MOOD_FOODS = {
           "Warm",
           "Traditional"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -8127,7 +8127,7 @@ MOOD_FOODS = {
           "Winter",
           "Traditional"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -8164,7 +8164,7 @@ MOOD_FOODS = {
           "South Indian",
           "Comforting"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -8200,7 +8200,7 @@ MOOD_FOODS = {
           "Fragrant",
           "Special"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 300,
         "prep_time": "30 mins",
@@ -8235,7 +8235,7 @@ MOOD_FOODS = {
           "Comfort",
           "Light"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -8271,7 +8271,7 @@ MOOD_FOODS = {
           "Iron-rich",
           "Traditional"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -8307,7 +8307,7 @@ MOOD_FOODS = {
           "Prasad",
           "Warmth"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 380,
         "prep_time": "15 mins",
@@ -8342,7 +8342,7 @@ MOOD_FOODS = {
           "Filling",
           "Comforting"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -8379,7 +8379,7 @@ MOOD_FOODS = {
           "Traditional",
           "Sweet"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 320,
         "prep_time": "20 mins",
@@ -8414,7 +8414,7 @@ MOOD_FOODS = {
           "Home Sweet",
           "Rajasthani"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 260,
         "prep_time": "25 mins",
@@ -8456,7 +8456,7 @@ MOOD_FOODS = {
           "Interactive",
           "Street Food"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -8493,7 +8493,7 @@ MOOD_FOODS = {
           "Chatpata",
           "Fun Platter"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -8530,7 +8530,7 @@ MOOD_FOODS = {
           "Low Calorie",
           "Movie Snack"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -8567,7 +8567,7 @@ MOOD_FOODS = {
           "Healthy",
           "Flavored"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -8604,7 +8604,7 @@ MOOD_FOODS = {
           "Light",
           "Fun"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -8641,7 +8641,7 @@ MOOD_FOODS = {
           "Filling",
           "Street Food"
         ],
-        "is_veg": false,
+        "is_veg": False,
         "diet_type": [
           "High Protein"
         ],
@@ -8677,7 +8677,7 @@ MOOD_FOODS = {
           "Tangy",
           "Street Food"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -8713,7 +8713,7 @@ MOOD_FOODS = {
           "Crispy",
           "Fun"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -8750,7 +8750,7 @@ MOOD_FOODS = {
           "Protein-rich",
           "Fun"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -8787,7 +8787,7 @@ MOOD_FOODS = {
           "Crispy",
           "Nostalgic Fun"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -8823,7 +8823,7 @@ MOOD_FOODS = {
           "Tangy",
           "Colorful"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -8861,7 +8861,7 @@ MOOD_FOODS = {
           "Fusion",
           "Comfort"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 420,
         "prep_time": "7 mins",
@@ -8896,7 +8896,7 @@ MOOD_FOODS = {
           "Crispy",
           "Fun Shape"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -8933,7 +8933,7 @@ MOOD_FOODS = {
           "Chatpata",
           "Rajasthani"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -8970,7 +8970,7 @@ MOOD_FOODS = {
           "Interactive",
           "Fusion"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -9006,7 +9006,7 @@ MOOD_FOODS = {
           "Flavors",
           "Fun"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 100,
         "prep_time": "8 mins",
@@ -9041,7 +9041,7 @@ MOOD_FOODS = {
           "Protein",
           "Crispy"
         ],
-        "is_veg": false,
+        "is_veg": False,
         "diet_type": [
           "High Protein"
         ],
@@ -9078,7 +9078,7 @@ MOOD_FOODS = {
           "Sweet-Spicy",
           "Maharashtrian"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -9115,7 +9115,7 @@ MOOD_FOODS = {
           "Spiral",
           "Festival Snack"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -9151,7 +9151,7 @@ MOOD_FOODS = {
           "Crunchy",
           "Anytime"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -9189,7 +9189,7 @@ MOOD_FOODS = {
           "Fun",
           "Street Food"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -9233,7 +9233,7 @@ MOOD_FOODS = {
           "Natural",
           "Instant"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -9271,7 +9271,7 @@ MOOD_FOODS = {
           "Tangy",
           "Refreshing"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -9309,7 +9309,7 @@ MOOD_FOODS = {
           "Probiotic",
           "Calm"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein",
           "Low Carb"
@@ -9346,7 +9346,7 @@ MOOD_FOODS = {
           "Hydrating",
           "Sweet"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -9384,7 +9384,7 @@ MOOD_FOODS = {
           "Calming",
           "Mindful"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -9423,7 +9423,7 @@ MOOD_FOODS = {
           "Ayurvedic",
           "Light"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -9460,7 +9460,7 @@ MOOD_FOODS = {
           "Electrolytes",
           "Simple"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -9497,7 +9497,7 @@ MOOD_FOODS = {
           "Cooling",
           "Fragrant"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -9534,7 +9534,7 @@ MOOD_FOODS = {
           "Ultra-cooling",
           "Herbal"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -9571,7 +9571,7 @@ MOOD_FOODS = {
           "Probiotic",
           "Immediate"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -9607,7 +9607,7 @@ MOOD_FOODS = {
           "Cooling",
           "Tangy"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -9644,7 +9644,7 @@ MOOD_FOODS = {
           "Cooling",
           "Alkalizing"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -9682,7 +9682,7 @@ MOOD_FOODS = {
           "Grounding",
           "Natural"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -9719,7 +9719,7 @@ MOOD_FOODS = {
           "Detox",
           "Healing"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -9758,7 +9758,7 @@ MOOD_FOODS = {
           "Digestive",
           "Cooling"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -9796,7 +9796,7 @@ MOOD_FOODS = {
           "Minty",
           "Fresh"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "Low Carb"
@@ -9833,7 +9833,7 @@ MOOD_FOODS = {
           "Probiotic",
           "Simple"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein",
           "Low Carb"
@@ -9870,7 +9870,7 @@ MOOD_FOODS = {
           "Protein",
           "Traditional"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan",
           "High Protein"
@@ -9907,7 +9907,7 @@ MOOD_FOODS = {
           "Unique",
           "Traditional"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -9944,7 +9944,7 @@ MOOD_FOODS = {
           "Festive",
           "Soothing"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -9981,7 +9981,7 @@ MOOD_FOODS = {
           "Ultra-cooling",
           "Pitta Cooler"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -10025,7 +10025,7 @@ MOOD_FOODS = {
           "Aromatic",
           "Special"
         ],
-        "is_veg": false,
+        "is_veg": False,
         "diet_type": [
           "High Protein"
         ],
@@ -10062,7 +10062,7 @@ MOOD_FOODS = {
           "Celebration",
           "Smoky"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -10098,7 +10098,7 @@ MOOD_FOODS = {
           "Big",
           "Festive"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -10135,7 +10135,7 @@ MOOD_FOODS = {
           "Rich",
           "Special Drink"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 450,
         "prep_time": "20 mins",
@@ -10170,7 +10170,7 @@ MOOD_FOODS = {
           "Celebratory",
           "Rich"
         ],
-        "is_veg": false,
+        "is_veg": False,
         "diet_type": [
           "High Protein"
         ],
@@ -10208,7 +10208,7 @@ MOOD_FOODS = {
           "Gift",
           "Celebration Sweet"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 300,
         "prep_time": "20 mins",
@@ -10243,7 +10243,7 @@ MOOD_FOODS = {
           "Sweet-Tangy",
           "Special"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -10280,7 +10280,7 @@ MOOD_FOODS = {
           "Rich",
           "Celebration"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "High Protein"
         ],
@@ -10317,7 +10317,7 @@ MOOD_FOODS = {
           "Spicy",
           "Party Food"
         ],
-        "is_veg": false,
+        "is_veg": False,
         "diet_type": [
           "High Protein"
         ],
@@ -10354,7 +10354,7 @@ MOOD_FOODS = {
           "Festive",
           "Cooling Dessert"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 380,
         "prep_time": "10 mins",
@@ -10389,7 +10389,7 @@ MOOD_FOODS = {
           "Mixed",
           "Smoky"
         ],
-        "is_veg": false,
+        "is_veg": False,
         "diet_type": [
           "High Protein"
         ],
@@ -10426,7 +10426,7 @@ MOOD_FOODS = {
           "Festival",
           "Sweet"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 380,
         "prep_time": "20 mins",
@@ -10462,7 +10462,7 @@ MOOD_FOODS = {
           "Festival",
           "Sweet"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 320,
         "prep_time": "45 mins",
@@ -10498,7 +10498,7 @@ MOOD_FOODS = {
           "Celebration",
           "Traditional"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 250,
         "prep_time": "30 mins",
@@ -10533,7 +10533,7 @@ MOOD_FOODS = {
           "Indian Fusion",
           "Special"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 280,
         "prep_time": "5 mins",
@@ -10568,7 +10568,7 @@ MOOD_FOODS = {
           "Green Color",
           "Celebration"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 280,
         "prep_time": "25 mins",
@@ -10603,7 +10603,7 @@ MOOD_FOODS = {
           "Celebration",
           "Coastal"
         ],
-        "is_veg": false,
+        "is_veg": False,
         "diet_type": [
           "High Protein",
           "Low Carb"
@@ -10641,7 +10641,7 @@ MOOD_FOODS = {
           "Mughal",
           "Rich Dessert"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [],
         "calories": 420,
         "prep_time": "30 mins",
@@ -10677,7 +10677,7 @@ MOOD_FOODS = {
           "Festive",
           "Celebration"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
@@ -10713,7 +10713,7 @@ MOOD_FOODS = {
           "Special",
           "Coastal"
         ],
-        "is_veg": false,
+        "is_veg": False,
         "diet_type": [
           "High Protein",
           "Low Carb"
@@ -10751,7 +10751,7 @@ MOOD_FOODS = {
           "Crispy",
           "Traditional"
         ],
-        "is_veg": true,
+        "is_veg": True,
         "diet_type": [
           "Vegan"
         ],
